@@ -64,3 +64,24 @@ button {
     color: $base-color;
   }
 }
+
+#button-start{
+  background-color: green;
+  color: white;
+  font-size: 16px;
+  border: none;
+}
+
+#button-stop{
+  background-color: red;
+  color: white;
+  font-size: 16px;
+  border: none;
+}
+
+#button-reset{
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  border: none;
+}
